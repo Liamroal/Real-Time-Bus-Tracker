@@ -14,3 +14,14 @@ body {
   left: 0;
   padding: 10px;
 }
+.button{
+  background-color:rgba(0, 0, 255, 0.719);
+  font-size: 2em;
+  width: 150px;
+  height: 60px;
+  color: white;
+}
+.link{
+  color:white;
+  text-decoration: none;
+}
